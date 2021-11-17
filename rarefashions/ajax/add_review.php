@@ -5,7 +5,6 @@ extract($_REQUEST);
 include '../head/jackus.php';
 
 		
-//echo "$customer_id","$product_id";
 					$arrFields=array('`product_ID`','`review_name`','`review_email`','`rating`','`review_type`','`review_discription`','`createdby`','`status`');
 
 					$arrValues=array("$product_ID","$review_name","$review_email","$rating","1","$review_discription","$logged_user_id","1");
