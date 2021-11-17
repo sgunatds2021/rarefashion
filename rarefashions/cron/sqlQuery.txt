@@ -1,0 +1,1 @@
+UPDATE js_offers_items SET `status`= '3', updatedon='2021-11-08 12:09:34' WHERE offers_id='1'

@@ -1,0 +1,1 @@
+UPDATE js_product SET `productviewed`= '438', updatedon='2021-11-17 09:29:02' WHERE productID=1

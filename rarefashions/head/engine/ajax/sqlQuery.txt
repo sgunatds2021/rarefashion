@@ -1,0 +1,1 @@
+INSERT INTO `js_offers_items` (  `offers_id`, `prdt_id`, `offers_product_code`, `offers_product_name`, `offers_product_price`, `updatedon`, `createdon` ) VALUES (  '5',  '4',  'BB00002J',  'Boys&amp;#039; dock shorts in railroad chambray',  '500','2021-11-16 13:16:56','2021-11-16 13:16:56')
